@@ -56,4 +56,4 @@ I love balancing my passion for coding with my love for sports and music. Whethe
 
 ---
 
-Feel free to explore my repositories and connect with me if you're interested in collaborating on exciting projects!
+Feel free to explore my repositories and connect with me if you're interested in collaborating on exciting projects
