@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=karandubey400)
+[![Stargazers over time](https://starchart.cc/karandubey400/my-repo.svg)](https://starchart.cc/karandubey400/KaranDubey400)
+
+
 
 
 <!--
