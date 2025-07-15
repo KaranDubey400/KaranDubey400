@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=karandubey400)
+
+
 <!--
 **KaranDubey400/KaranDubey400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
