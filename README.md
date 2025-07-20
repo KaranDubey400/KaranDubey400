@@ -13,7 +13,7 @@ I'm Karn 🧑‍💻.
 ! 📖 Programming languages, functional, web development
 ```
 
-#### 👉 *[anabastos.dev](https://anabastos.dev/)* 👈
+#### 👉 *[karn's portfolio](https)* 👈
 
 <Youre doing great>
 <Good things will come to you>
