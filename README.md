@@ -6,11 +6,10 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi, I'm Ana 👩‍💻.
+Hi, I'm Karn 🧑‍💻.
 
 @@I'm a software engineer@@
-+ Living in São Paulo, Brazil 🇧🇷.
-- 30 years old
+- 21 years old
 ! 📖 Programming languages, functional, web development
 ```
 
