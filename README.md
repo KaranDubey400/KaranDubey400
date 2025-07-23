@@ -16,3 +16,8 @@ I'm Karn 🧑‍💻.
 @@I'm a software engineer@@
 - 21 years old
 ! 📖 Programming languages, functional, web development
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karandubey400&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
