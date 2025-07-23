@@ -1,4 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=karandubey400&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Contributions](https://github-contribution-graph.dev/graph?username=karandubey400&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwZDlmc2d0eGs0Y252bnMzd2Z0b2VmMDllbGZmcHNvcWUyNnhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TDf5hTK22hAfbpxUX/giphy.gif" height="100" />
     <img  align="right" src="https://i.pinimg.com/736x/c9/77/69/c9776902a920d9497fbc1b6775ccc989.jpg" height="100"  />
