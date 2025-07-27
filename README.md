@@ -10,10 +10,7 @@
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" />
   </a>
-</p>
-
-## 🛠️ Languages and Tools:
-<p align="right">
+  <p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:10px;"/>
@@ -26,6 +23,10 @@
   <img src="https://img.icons8.com/?size=100&id=4F4fbX1BUaUU&format=png&color=000000" alt="AI" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
 </p>
+</p>
+
+
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karandubey400&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
