@@ -21,7 +21,8 @@
   <a href="#"><img alt="Python" width="40px" src="https://img.icons8.com/color/48/python.png" /></a>
   <a href="#"><img alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/typescript.png" /></a>
   <a href="#"><img alt="React" width="40px" src="https://img.icons8.com/color/48/react-native.png" /></a>
-  <a href="#"><img alt="Next.js" width="40px" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" /></a>
+ 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:10px;" />
   <a href="#"><img alt="Git" width="40px" src="https://img.icons8.com/color/48/git.png" /></a>
   <a href="#"><img alt="GitHub" width="40px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png" /></a>
   <a href="#"><img alt="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
