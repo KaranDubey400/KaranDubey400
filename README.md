@@ -12,26 +12,6 @@
   </a>
 </p>
 
----
-
-## 🛠 Languages and Tools:
-
-<p align="left">
-  <a href="#"><img alt="C++" width="40px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
-  <a href="#"><img alt="Python" width="40px" src="https://img.icons8.com/color/48/python.png" /></a>
-  <a href="#"><img alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/typescript.png" /></a>
-  <a href="#"><img alt="React" width="40px" src="https://img.icons8.com/color/48/react-native.png" /></a>
- 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:10px;" />
-  <a href="#"><img alt="Git" width="40px" src="https://img.icons8.com/color/48/git.png" /></a>
-  <a href="#"><img alt="GitHub" width="40px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png" /></a>
-  <a href="#"><img alt="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
-  <a href="#"><img alt="Supabase" width="100px" src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo-wordmark--light.png" /></a>
-  <a href="#"><img alt="SQL" width="40px" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png" /></a>
-  <a href="#"><img alt="AI" width="40px" src="https://img.icons8.com/?size=100&id=hxglyfr7X4fd&format=png" /></a>
-</p>
-
-
 ## Connect with me:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
@@ -40,8 +20,6 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/YOUR_USERNAME)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_USERNAME)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-
----
 
 ## 🛠️ Languages and Tools:
 
