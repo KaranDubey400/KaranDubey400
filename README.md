@@ -28,16 +28,6 @@
 </p>
 
 
-## 📊 Most Used Languages (Sample Data)
-
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
 
 
 
