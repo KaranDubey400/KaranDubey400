@@ -14,20 +14,20 @@
 
 ---
 
-<h2>🛠️ Languages and Tools:</h2>
+## 🛠 Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/11241/11241942.png" alt="AI" width="40" height="40" style="margin-right:10px;"/>
+  <a href="#"><img alt="C++" width="40px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
+  <a href="#"><img alt="Python" width="40px" src="https://img.icons8.com/color/48/python.png" /></a>
+  <a href="#"><img alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/typescript.png" /></a>
+  <a href="#"><img alt="React" width="40px" src="https://img.icons8.com/color/48/react-native.png" /></a>
+  <a href="#"><img alt="Next.js" width="40px" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" /></a>
+  <a href="#"><img alt="Git" width="40px" src="https://img.icons8.com/color/48/git.png" /></a>
+  <a href="#"><img alt="GitHub" width="40px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png" /></a>
+  <a href="#"><img alt="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /></a>
+  <a href="#"><img alt="Supabase" width="100px" src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo-wordmark--light.png" /></a>
+  <a href="#"><img alt="SQL" width="40px" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png" /></a>
+  <a href="#"><img alt="AI" width="40px" src="https://img.icons8.com/?size=100&id=hxglyfr7X4fd&format=png" /></a>
 </p>
 
 
