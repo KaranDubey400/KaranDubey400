@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/11241/11241942.png" alt="AI" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/?size=100&id=4F4fbX1BUaUU&format=png&color=000000" alt="AI" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
 </p>
 
