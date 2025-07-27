@@ -13,7 +13,6 @@
 </p>
 
 ## 🛠️ Languages and Tools:
-## 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
@@ -25,7 +24,7 @@
   <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/11241/11241942.png" alt="AI" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/karn-exe/assets/main/mongodb_logo.png" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.streamlinehq.com%2Ficons%2Fdownload%2Fmongodb--31103&psig=AOvVaw0vjWgrfVr64qBsa0VKAp-e&ust=1753724583131000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDj763L3Y4DFQAAAAAdAAAAABAE " alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
 </p>
 
 
