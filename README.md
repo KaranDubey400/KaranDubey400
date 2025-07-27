@@ -8,16 +8,8 @@
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30"/>
-  </a>
-  <a href="https://behance.net/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="30" height="30"/>
-  </a>
-  <a href="https://dev.to/YOUR_USERNAME" target="_blank">
+ 
+  <a href="portfoilio website" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Dev.to" width="30" height="30"/>
   </a>
   <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
