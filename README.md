@@ -25,7 +25,7 @@
   <img  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=4F4fbX1BUaUU&format=png&color=000000" alt="AI" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-adobe-illustrator-ai-icon-png-image_4899504.png" height="100" />
+  <img src="https://thumbs.dreamstime.com/b/artificial-intelligence-icon-ai-three-stars-logo-application-website-flat-vector-illustration-eps-371594668.jpg" height="50" />
 
 </p>
 
