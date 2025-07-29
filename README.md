@@ -21,10 +21,10 @@
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:10px;"/>
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
-  <img   src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
+  <img   src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
   
-  <img  src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/mongodb-6hfhlrdt6ngaen1l3rxluk.png/mongodb-qtf35g5rmklpcbzu0jtuye.png?_a=DATAg1AAZAA0" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
+  <img  src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://thumbs.dreamstime.com/b/artificial-intelligence-icon-ai-three-stars-logo-application-website-flat-vector-illustration-eps-371594668.jpg" height="50" />
 
 </p>
