@@ -23,6 +23,7 @@
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
   <img   src="https://i.ibb.co/vx4NCPRn/Chat-GPT-Image-Jul-29-2025-10-03-05-PM.png" alt="Supabase" width="80" height="200" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
+  <img  src="https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2F8a046387861d%2F_next%2Fstatic%2Fmedia%2Flogo-preview.50e72501.jpg&w=2048&q=75" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
   
   <img  src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://thumbs.dreamstime.com/b/artificial-intelligence-icon-ai-three-stars-logo-application-website-flat-vector-illustration-eps-371594668.jpg" height="50" />
