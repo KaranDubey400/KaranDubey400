@@ -25,6 +25,7 @@
   <img  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=4F4fbX1BUaUU&format=png&color=000000" alt="AI" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwZDlmc2d0eGs0Y252bnMzd2Z0b2VmMDllbGZmcHNvcWUyNnhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TDf5hTK22hAfbpxUX/giphy.gif" height="100" />
 
 </p>
 
