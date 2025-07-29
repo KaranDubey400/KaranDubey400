@@ -24,7 +24,7 @@
   <img   src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
   
-  <img  src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
+  <img  src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/mongodb-6hfhlrdt6ngaen1l3rxluk.png/mongodb-qtf35g5rmklpcbzu0jtuye.png?_a=DATAg1AAZAA0" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://thumbs.dreamstime.com/b/artificial-intelligence-icon-ai-three-stars-logo-application-website-flat-vector-illustration-eps-371594668.jpg" height="50" />
 
 </p>
