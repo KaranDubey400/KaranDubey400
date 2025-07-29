@@ -21,7 +21,7 @@
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:10px;"/>
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right:10px;"/>
-  <img   src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
+  <img   src="https://wp.logos-download.com/wp-content/uploads/2023/02/Supabase_Logo.png?dl" alt="Supabase" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
   
   <img  src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
