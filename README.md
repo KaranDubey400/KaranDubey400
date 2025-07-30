@@ -18,7 +18,7 @@
   </a>
   
 </p>
-<h2>Connect with me:</h2>
+<h2>Tools </h2>
 <p align="left" >
   <img  align="right" src="https://i.pinimg.com/736x/c9/77/69/c9776902a920d9497fbc1b6775ccc989.jpg" height="100"  />
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
