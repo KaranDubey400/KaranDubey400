@@ -16,7 +16,7 @@
   </a>
   
 </p>
-# tools
+<h2>Connect with me:</h2>
 <p align="left" >
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
@@ -30,6 +30,8 @@
  
   <img  src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://thumbs.dreamstime.com/b/artificial-intelligence-icon-ai-three-stars-logo-application-website-flat-vector-illustration-eps-371594668.jpg" height="50" />
+
+    <img  align="right" src="https://i.pinimg.com/736x/c9/77/69/c9776902a920d9497fbc1b6775ccc989.jpg" height="100"  />
 
 </p>
 
