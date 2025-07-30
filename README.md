@@ -1,6 +1,10 @@
 <h2>Connect with me:</h2>
 
 <p align="left">
+  <p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwZDlmc2d0eGs0Y252bnMzd2Z0b2VmMDllbGZmcHNvcWUyNnhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TDf5hTK22hAfbpxUX/giphy.gif" height="100" />
+   
+</p>
   <a href="https://x.com/YOUR_USERNAME" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="30" height="30" />
   </a>
@@ -39,7 +43,7 @@
 
 
 
-<p align="left">
+<p align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwZDlmc2d0eGs0Y252bnMzd2Z0b2VmMDllbGZmcHNvcWUyNnhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TDf5hTK22hAfbpxUX/giphy.gif" height="100" />
     <img  align="right" src="https://i.pinimg.com/736x/c9/77/69/c9776902a920d9497fbc1b6775ccc989.jpg" height="100"  />
 </p>
