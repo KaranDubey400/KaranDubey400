@@ -1,6 +1,6 @@
 
-## Hi there 👋
-<h2>Connect with me:</h2>
+## Hi there 👋....Connect with me
+
 
 <p align="left">
  
