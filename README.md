@@ -7,13 +7,13 @@
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRwZDlmc2d0eGs0Y252bnMzd2Z0b2VmMDllbGZmcHNvcWUyNnhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8TDf5hTK22hAfbpxUX/giphy.gif" height="100" />
    
 
-  <a href="https://x.com/YOUR_USERNAME" target="_blank" style="margin-right: 10px;">
+  <a href="https://x.com" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="30" height="30" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank" style="margin-right: 10px;">
+  <a href="https://linkedin.com/i" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" style="margin-right: 10px;">
+  <a href="https://leetcode.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" />
   </a>
   
