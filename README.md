@@ -22,6 +22,7 @@
 <p align="left" >
   <img  align="right" src="https://i.pinimg.com/736x/c9/77/69/c9776902a920d9497fbc1b6775ccc989.jpg" height="100"  />
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
+  <img  src="https://www.clipartmax.com/max/m2H7G6A0b1A0K9m2/" alt="C" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right:10px;"/>
