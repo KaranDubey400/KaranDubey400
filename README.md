@@ -60,8 +60,6 @@
 I'm Karn 🧑‍💻.
 
 @@I'm a software engineer @@
-- 21 years old
-! 📖 Programming languages, AI-ML , problem solving
 
 
 
